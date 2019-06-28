@@ -5,6 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@types/googlemaps": "^3.36.5",
-    "faker": "^4.1.0"
+    "concurrently": "^4.1.1",
+    "faker": "^4.1.0",
+    "nodemon": "^1.19.1"
   }
 }
